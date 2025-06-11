@@ -18,31 +18,31 @@ This project was developed to monitor, visualize, and support COVID-19 response 
 
 ### 🔹 Homepage – Public Information Portal  
 Provides access to COVID-19 updates and Ministry of Health contacts  
-![Home Page](./images/ug_covid_home.png)
+![Home Page](ug_covid_home.png)
 
 ---
 
 ### 🔹 Bar Graph COVID-19 Analyzer  
 Visualizes test counts, case categories, and response metrics  
-![Bar Chart](./images/covid_bar.png)
+![Bar Chart](covid_bar.png)
 
 ---
 
 ### 🔹 Pie Chart Uganda Updates  
 Breakdown of follow-up status, active cases, testing, and outcomes  
-![Pie Chart](./images/covid_pie.png)
+![Pie Chart](covid_pie.png)
 
 ---
 
 ### 🔹 National Dashboard – Stats Overview  
 Summarizes all cases by category with real-time numbers  
-![Stats Dashboard](./images/covid_dashboard.png)
+![Stats Dashboard](covid_dashboard.png)
 
 ---
 
 ### 🔹 Admin Portal – Center Management  
 Used to manage test centers, isolation zones, and patient data  
-![Admin Portal](./images/admin_portal.png)
+![Admin Portal](admin_portal.png)
 
 ---
 
