@@ -18,7 +18,7 @@ This project was developed to monitor, visualize, and support COVID-19 response 
 
 ### 🔹 Homepage – Public Information Portal  
 Provides access to COVID-19 updates and Ministry of Health contacts  
-![Home Page](ug_covid_home.png)
+![Homepage](ug%covid%track%-%Home%page.PNG)
 
 ---
 
