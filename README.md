@@ -18,31 +18,31 @@ This project was developed to monitor, visualize, and support COVID-19 response 
 
 ### 🔹 Homepage – Public Information Portal  
 Provides access to COVID-19 updates and Ministry of Health contacts  
-![Homepage](ug%covid%track%-%Home%page.PNG)
+![Homepage](ugcovidhome.PNG)
 
 ---
 
 ### 🔹 Bar Graph COVID-19 Analyzer  
 Visualizes test counts, case categories, and response metrics  
-![Bar Chart](covid_bar.png)
+![Bar Chart](covidchart.png)
 
 ---
 
 ### 🔹 Pie Chart Uganda Updates  
 Breakdown of follow-up status, active cases, testing, and outcomes  
-![Pie Chart](covid_pie.png)
+![Pie Chart](covidpie.png)
 
 ---
 
 ### 🔹 National Dashboard – Stats Overview  
 Summarizes all cases by category with real-time numbers  
-![Stats Dashboard](covid_dashboard.png)
+![Stats Dashboard](covidstatistics.png)
 
 ---
 
 ### 🔹 Admin Portal – Center Management  
 Used to manage test centers, isolation zones, and patient data  
-![Admin Portal](admin_portal.png)
+![Admin Portal](adminportal.jpg)
 
 ---
 
@@ -56,5 +56,10 @@ This project includes use of both backend and frontend development skills. Techn
 - **Authentication:** Session-based login system for security
 - **UX/UI:** Responsive layout design using HTML5/CSS3
 - **Role-based Access:** Admin, Doctor, Nurse, Patient accounts
+- **APIs:** Real-time API integration for global and national COVID-19 updates
 - **Data Handling:** Form inputs, automated record classification
 - **Basic DevOps:** Version tracking, environment setup, and deployment
+
+## 📌 Conclusion
+
+This project was developed with the support of **IEEE volunteers from Kyambogo University and Makerere University**, along with contributions from **Francis Ocwich** and **Alex Bazigu**. It was also funded by IEEE HAC/SIGHT 
