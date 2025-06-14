@@ -24,7 +24,7 @@ Login page
 ![Loginpage](login.png)
 ---
 
-### 🔹 Bar Graph COVID-19 Analyzer  
+### 🔹Graph COVID-19 Analyzer  
 Visualizes test counts, case categories, and response metrics  
 ![Bar Chart](covidchart.png)
 
