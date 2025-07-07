@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Information Management and Tracking System 
+# 🦠 COVID-19 Information Management and Tracking System Uganda
 
 This project was developed to monitor, visualize, and support COVID-19 response efforts in Uganda. It includes case tracking, follow-up management, national and global analytics, and stakeholder coordination features like dashboards for doctors, nurses, patients, and task forces.
 
